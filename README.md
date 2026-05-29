@@ -28,17 +28,6 @@
 
 ###
 
-<h2 align="center">Painel de Atividade</h2>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JoseKaueDev/JoseKaueDev/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/JoseKaueDev/JoseKaueDev/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">Mídias Sociais</h2>
 
 ###
@@ -46,9 +35,6 @@
 <div align="center">
   <a href="www.linkedin.com/in/jose-kaue-silva-330994283" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="jose.kaue.alves2021@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
